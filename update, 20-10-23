@@ -1,0 +1,19 @@
+- ADD Smugle System
+- Change Exterior LSPD
+- Change Interior LSPD
+- ADD cmd /duty Untuk faction gunakan duty untuk onduty dan gunakan lagi untuk offduty
+- memindahkan semua pickup ke interior baru
+- nerf harga pembuatan sim
+- ADD Ammo rob hanya berlaku untuk family
+- ADD black market hanya berlaku untuk family 
+- ADD cmd /corpse
+- ADD maing penjara
+- ADD cmd /loadinjured untuk memasukan pemain kedalam kendaraan
+- ADD cmd /dropinjured untuk mengeluarkan pemain dari kendaraan
+- merubah cmd status fraksi online menjadi
+  > LSPD   = /sapanel
+  > MEDIC = /mdpanel
+  > PEDAGANG = /ppanel
+  > MEKANIK = /mpanel
+  > GOV    = /gpanel
+- DLL ...
